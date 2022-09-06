@@ -1,0 +1,15 @@
+C:\Lection4\Filling\bin\Debug\net6.0\Filling.exe
+C:\Lection4\Filling\bin\Debug\net6.0\Filling.deps.json
+C:\Lection4\Filling\bin\Debug\net6.0\Filling.runtimeconfig.json
+C:\Lection4\Filling\bin\Debug\net6.0\Filling.dll
+C:\Lection4\Filling\bin\Debug\net6.0\Filling.pdb
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.csproj.AssemblyReference.cache
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.AssemblyInfoInputs.cache
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.AssemblyInfo.cs
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.csproj.CoreCompileInputs.cache
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.dll
+C:\Lection4\Filling\obj\Debug\net6.0\refint\Filling.dll
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.pdb
+C:\Lection4\Filling\obj\Debug\net6.0\Filling.genruntimeconfig.cache
+C:\Lection4\Filling\obj\Debug\net6.0\ref\Filling.dll

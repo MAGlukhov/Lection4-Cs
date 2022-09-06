@@ -1,0 +1,15 @@
+C:\Lection4\Doublearray\bin\Debug\net6.0\Doublearray.exe
+C:\Lection4\Doublearray\bin\Debug\net6.0\Doublearray.deps.json
+C:\Lection4\Doublearray\bin\Debug\net6.0\Doublearray.runtimeconfig.json
+C:\Lection4\Doublearray\bin\Debug\net6.0\Doublearray.dll
+C:\Lection4\Doublearray\bin\Debug\net6.0\Doublearray.pdb
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.csproj.AssemblyReference.cache
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.AssemblyInfoInputs.cache
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.AssemblyInfo.cs
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.csproj.CoreCompileInputs.cache
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.dll
+C:\Lection4\Doublearray\obj\Debug\net6.0\refint\Doublearray.dll
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.pdb
+C:\Lection4\Doublearray\obj\Debug\net6.0\Doublearray.genruntimeconfig.cache
+C:\Lection4\Doublearray\obj\Debug\net6.0\ref\Doublearray.dll

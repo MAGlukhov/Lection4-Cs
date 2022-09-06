@@ -1,0 +1,15 @@
+C:\Lection4\RecFactorial\bin\Debug\net6.0\RecFactorial.exe
+C:\Lection4\RecFactorial\bin\Debug\net6.0\RecFactorial.deps.json
+C:\Lection4\RecFactorial\bin\Debug\net6.0\RecFactorial.runtimeconfig.json
+C:\Lection4\RecFactorial\bin\Debug\net6.0\RecFactorial.dll
+C:\Lection4\RecFactorial\bin\Debug\net6.0\RecFactorial.pdb
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.csproj.AssemblyReference.cache
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.AssemblyInfoInputs.cache
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.AssemblyInfo.cs
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.csproj.CoreCompileInputs.cache
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.dll
+C:\Lection4\RecFactorial\obj\Debug\net6.0\refint\RecFactorial.dll
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.pdb
+C:\Lection4\RecFactorial\obj\Debug\net6.0\RecFactorial.genruntimeconfig.cache
+C:\Lection4\RecFactorial\obj\Debug\net6.0\ref\RecFactorial.dll
